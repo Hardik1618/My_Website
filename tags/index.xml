@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hardik1618.github.io/Profile/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blogdown</title>
-      <link>https://hardik1618.github.io/Profile/tags/blogdown/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://hardik1618.github.io/Profile/tags/blogdown/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

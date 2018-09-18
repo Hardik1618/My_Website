@@ -11,14 +11,5 @@
 	<atom:link href="https://hardik1618.github.io/Profile/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>R</title>
-      <link>https://hardik1618.github.io/Profile/categories/r/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://hardik1618.github.io/Profile/categories/r/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
